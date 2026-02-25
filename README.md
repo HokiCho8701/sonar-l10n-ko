@@ -12,6 +12,8 @@ SonarQube Korean Language Pack / SonarQube 한국어 언어 팩
 
 This is the Korean language pack for [SonarQube](https://www.sonarqube.org/).
 
+This project was forked from [sonar-l10n-zh](https://github.com/xuhuisheng/sonar-l10n-zh) (Chinese Language Pack by Xu Huisheng) and adapted for Korean localization.
+
 ### Compatibility Matrix
 
 | **SonarQube** | **25.12** |
@@ -56,6 +58,8 @@ This project is licensed under the [GNU Lesser General Public License v3.0](LICE
 ## 한국어
 
 [SonarQube](https://www.sonarqube.org/) 한국어 언어 팩입니다.
+
+이 프로젝트는 [sonar-l10n-zh](https://github.com/xuhuisheng/sonar-l10n-zh) (Xu Huisheng의 중국어 언어 팩)를 포크하여 한국어 현지화를 위해 제작되었습니다.
 
 ### 호환성 매트릭스
 

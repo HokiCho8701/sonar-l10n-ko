@@ -1,7 +1,7 @@
 SonarQube Korean Language Pack / SonarQube 한국어 언어 팩
 ==========================================================
 
-[![Build Status](https://github.com/sonar-l10n-ko/sonar-l10n-ko/actions/workflows/build.yml/badge.svg)](https://github.com/sonar-l10n-ko/sonar-l10n-ko/actions/workflows/build.yml)
+[![Build Status](https://github.com/HokiCho8701/sonar-l10n-ko/actions/workflows/build.yml/badge.svg)](https://github.com/HokiCho8701/sonar-l10n-ko/actions/workflows/build.yml)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 [English](#english) | [한국어](#한국어)
@@ -20,7 +20,7 @@ This is the Korean language pack for [SonarQube](https://www.sonarqube.org/).
 
 ### Installation
 
-1. Download the latest JAR from the [Releases](https://github.com/sonar-l10n-ko/sonar-l10n-ko/releases) page.
+1. Download the latest JAR from the [Releases](https://github.com/HokiCho8701/sonar-l10n-ko/releases) page.
 2. Copy the JAR file to the `extensions/plugins` folder of your SonarQube installation.
 3. Restart SonarQube.
 
@@ -37,7 +37,7 @@ The built plugin JAR will be located in the `target/` directory:
 
 ### Contributing
 
-Contributions are welcome! Please open an [issue](https://github.com/sonar-l10n-ko/sonar-l10n-ko/issues) or pull request.
+Contributions are welcome! Please open an [issue](https://github.com/HokiCho8701/sonar-l10n-ko/issues) or pull request.
 
 Translation strings are in `src/main/resources/org/sonar/l10n/core_ko.properties`.
 
@@ -65,7 +65,7 @@ This project is licensed under the [GNU Lesser General Public License v3.0](LICE
 
 ### 설치 방법
 
-1. [Releases](https://github.com/sonar-l10n-ko/sonar-l10n-ko/releases) 페이지에서 최신 JAR 파일을 다운로드합니다.
+1. [Releases](https://github.com/HokiCho8701/sonar-l10n-ko/releases) 페이지에서 최신 JAR 파일을 다운로드합니다.
 2. JAR 파일을 SonarQube 설치 디렉토리의 `extensions/plugins` 폴더에 복사합니다.
 3. SonarQube를 재시작합니다.
 

@@ -8,13 +8,13 @@
   <version>25.12-SNAPSHOT</version>
 
   <name>L10n :: Korean Pack</name>
-  <url>https://github.com/sonar-l10n-ko/sonar-l10n-ko</url>
+  <url>https://github.com/HokiCho8701/sonar-l10n-ko</url>
   <inceptionYear>2025</inceptionYear>
   <description>Language Pack for Korean</description>
 
   <organization>
     <name>SonarQube Korean Community</name>
-    <url>https://github.com/sonar-l10n-ko</url>
+    <url>https://github.com/HokiCho8701</url>
   </organization>
 
   <licenses>
@@ -26,15 +26,15 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/sonar-l10n-ko/sonar-l10n-ko.git</connection>
-    <developerConnection>scm:git:https://github.com/sonar-l10n-ko/sonar-l10n-ko.git</developerConnection>
-    <url>https://github.com/sonar-l10n-ko/sonar-l10n-ko</url>
+    <connection>scm:git:https://github.com/HokiCho8701/sonar-l10n-ko.git</connection>
+    <developerConnection>scm:git:https://github.com/HokiCho8701/sonar-l10n-ko.git</developerConnection>
+    <url>https://github.com/HokiCho8701/sonar-l10n-ko</url>
     <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/sonar-l10n-ko/sonar-l10n-ko/issues</url>
+    <url>https://github.com/HokiCho8701/sonar-l10n-ko/issues</url>
   </issueManagement>
 
   <properties>
@@ -45,8 +45,8 @@
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <sonar.projectKey>sonar-l10n-ko_sonar-l10n-ko</sonar.projectKey>
-    <sonar.organization>sonar-l10n-ko</sonar.organization>
+    <sonar.projectKey>HokiCho8701_sonar-l10n-ko</sonar.projectKey>
+    <sonar.organization>HokiCho8701</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
@@ -90,7 +90,7 @@
       <id>hoki</id>
       <name>hoki</name>
       <organization>SonarQube Korean Community</organization>
-      <organizationUrl>https://github.com/sonar-l10n-ko</organizationUrl>
+      <organizationUrl>https://github.com/HokiCho8701</organizationUrl>
     </developer>
   </developers>
 
